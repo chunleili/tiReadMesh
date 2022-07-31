@@ -41,7 +41,6 @@ for i in range(numSurfs):
 for i in range(numEdges):
     pos[edge[i][0]] 表示边i的第0号顶点的三维坐标
     pos[edge[i][1]] 表示边i的第1号顶点的三维坐标
-    pos[edge[i][2]] 表示边i的第2号顶点的三维坐标
 ```
 
 注意：
