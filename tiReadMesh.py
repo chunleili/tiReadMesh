@@ -1,4 +1,3 @@
-from pyparsing import nums
 from mesh_data import bunnyMesh
 import taichi as ti
 import numpy as np
